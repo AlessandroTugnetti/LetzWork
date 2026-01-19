@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Luxembourg Careers Explorer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Luxembourg Careers Explorer</p>
+        <h1>Track career opportunities across Luxembourg employers.</h1>
+        <p class="subtitle">
+          The dashboard refreshes automatically from the career websites listed in the XLSX file. New postings
+          are highlighted with a “New” badge.
+        </p>
+        <div class="meta">
+          <span id="last-updated">Updated just now</span>
+          <span id="summary"></span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls">
+        <input id="search" type="search" placeholder="Search companies or roles" />
+        <label class="toggle">
+          <input id="toggle-new" type="checkbox" />
+          <span>Show only new roles</span>
+        </label>
+      </section>
+
+      <section id="company-list" class="company-list"></section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Generated from <code>luxembourg_companies.xlsx</code>. Logos provided by Clearbit. Click any job to apply
+        on the company site.
+      </p>
+    </footer>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
