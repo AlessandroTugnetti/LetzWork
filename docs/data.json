@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-02-12T06:53:12.028Z",
+  "generatedAt": "2026-02-13T06:50:33.654Z",
   "totalCompanies": 243,
-  "totalJobs": 1380,
+  "totalJobs": 1379,
   "companies": [
     {
       "name": "3s.money",
@@ -189,121 +189,121 @@
           "title": "Careers",
           "url": "https://careers.airbnb.com/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Life at Airbnb",
           "url": "https://careers.airbnb.com/life-at-airbnb/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Job Search",
           "url": "https://careers.airbnb.com/positions",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Connect Engineering Apprenticeship",
           "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Internship Programs",
           "url": "https://careers.airbnb.com/internship-programs/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Contractor Roles",
           "url": "https://careers.airbnb.com/positions/#non-permanent-contractor",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Account Executive, Airbnb for Business",
           "url": "https://careers.airbnb.com/positions/7434393/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Advanced Analytics Intern (MS/MBA)",
           "url": "https://careers.airbnb.com/positions/7556971/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Analyste sur la Qualité, Soutien Prioritaire (Portugais)",
           "url": "https://careers.airbnb.com/positions/7550112/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Associate Art Direction, Media Operations",
           "url": "https://careers.airbnb.com/positions/7510624/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Associé·e aux appels de sécurité",
           "url": "https://careers.airbnb.com/positions/7590305/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Backend Software Engineer, Storefronts",
           "url": "https://careers.airbnb.com/positions/7572491/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Brand Marketing Intern, France",
           "url": "https://careers.airbnb.com/positions/7563987/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Business Analyst",
           "url": "https://careers.airbnb.com/positions/7543907/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Business Data Analyst (12 Month FTC)",
           "url": "https://careers.airbnb.com/positions/7455067/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Business Solutions Engineer, (Agentic AI)",
           "url": "https://careers.airbnb.com/positions/7541082/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Apply now",
           "url": "https://magnit-airbnb.talentnet.community/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "FAQ",
           "url": "https://careers.airbnb.com/faq/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Candidate Privacy",
           "url": "https://careers.airbnb.com/candidate-privacy/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "English",
           "url": "https://careers.airbnb.com/positions/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         }
       ],
       "totalJobs": 20
@@ -649,6 +649,12 @@
           "isNew": false
         },
         {
+          "title": "Product Implementation Officer H/F M/F",
+          "url": "https://jobs.amundi.com/job/job-product-implementation-officer-h-f-m-f_108682.aspx",
+          "salary": "",
+          "isNew": true
+        },
+        {
           "title": "Risk Officer (CDI) H/F",
           "url": "https://jobs.amundi.com/job/job-risk-officer-cdi-h-f_107098.aspx",
           "salary": "",
@@ -693,12 +699,6 @@
         {
           "title": "Fund Manager Operations Officer (CDD 12 mois) H/F",
           "url": "https://jobs.amundi.com/job/job-fund-manager-operations-officer-cdd-12-mois-h-f_107055.aspx",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Senior Legal Advisor Investment Funds M/F",
-          "url": "https://jobs.amundi.com/job/job-senior-legal-advisor-investment-funds-m-f_98797.aspx",
           "salary": "",
           "isNew": false
         },
@@ -1016,21 +1016,8 @@
       "name": "Bank Of China",
       "website": "http://www.bankofchina.com/lu/en/",
       "domain": "bankofchina.com",
-      "jobs": [
-        {
-          "title": "Private Opening Application Form and Information Reference",
-          "url": "http://www.bankofchina.com/lu/en/bocinfo/bi3/201711/t20171127_10773897.html",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Careers",
-          "url": "http://www.bankofchina.com/lu/en/aboutus/ab5/201711/t20171127_10773879.html",
-          "salary": "",
-          "isNew": false
-        }
-      ],
-      "totalJobs": 2
+      "jobs": [],
+      "totalJobs": 0
     },
     {
       "name": "Banking Circle",
@@ -1082,19 +1069,19 @@
           "isNew": false
         },
         {
-          "title": "Tous les métiers de la banque (20)",
+          "title": "Tous les métiers de la banque (21)",
           "url": "https://jobs.banquedeluxembourg.com/offre-de-emploi/liste-toutes-offres.aspx?changefacet=1&facet_JobFamily=3591",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Stage (4)",
+          "title": "Stage (5)",
           "url": "https://jobs.banquedeluxembourg.com/offre-de-emploi/liste-toutes-offres.aspx?changefacet=1&facet_Contract=2711",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Luxembourg (20)",
+          "title": "Luxembourg (21)",
           "url": "https://jobs.banquedeluxembourg.com/offre-de-emploi/liste-toutes-offres.aspx?changefacet=1&facet_JobCountry=119",
           "salary": "",
           "isNew": false
@@ -1268,27 +1255,8 @@
       "name": "Banque Raiffeisen Agence -Centre",
       "website": "https://www.raiffeisen.lu/en/banque/career",
       "domain": "raiffeisen.lu",
-      "jobs": [
-        {
-          "title": "en",
-          "url": "https://www.raiffeisen.lu/en/banque/career",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Jobs Etudiants (M/F/X) Réf. 26-00 Job Etudiants Temps plein",
-          "url": "https://www.raiffeisen.lu/fr/jobs-etudiants-mfx",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Open application",
-          "url": "https://raiffeisen-mrs-prod.elsatis.fr/recruitment/public/offers/offer/apply",
-          "salary": "",
-          "isNew": false
-        }
-      ],
-      "totalJobs": 3
+      "jobs": [],
+      "totalJobs": 0
     },
     {
       "name": "Banque Transatlantique",
@@ -1333,62 +1301,62 @@
           "isNew": false
         },
         {
-          "title": "Investment Banking Associate CMG",
-          "url": "https://search.jobs.barclays/job/new-york/investment-banking-associate-cmg/13015/91634223408",
+          "title": "Head of Data Security Protection Operations",
+          "url": "https://search.jobs.barclays/job/knutsford/head-of-data-security-protection-operations/13015/91670019856",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "IB Analyst, Communications and Media Group",
-          "url": "https://search.jobs.barclays/job/new-york/ib-analyst-communications-and-media-group/13015/91634223392",
+          "title": "Design Lead - Product - BPL",
+          "url": "https://search.jobs.barclays/job/london/design-lead-product-bpl/13015/91670019792",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Essential Banker",
-          "url": "https://search.jobs.barclays/job/douglas/essential-banker/13015/91634223296",
+          "title": "Trade Finance Sales Specialist -France & Benelux",
+          "url": "https://search.jobs.barclays/job/paris/trade-finance-sales-specialist-france-and-benelux/13015/91670019616",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Strategy Lead – Enterprise Architecture",
-          "url": "https://search.jobs.barclays/job/london/strategy-lead-enterprise-architecture/13015/91634216992",
+          "title": "Brand Advertising and Activation Marketing Manager",
+          "url": "https://search.jobs.barclays/job/london/brand-advertising-and-activation-marketing-manager/13015/91670019152",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Test Automation Engineer",
-          "url": "https://search.jobs.barclays/job/prague/test-automation-engineer/13015/91634216800",
+          "title": "Technology and Commercial Lawyer",
+          "url": "https://search.jobs.barclays/job/wilmington/technology-and-commercial-lawyer/13015/91670018560",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Enterprise Architect - Corporate Digital & CRM",
-          "url": "https://search.jobs.barclays/job/knutsford/enterprise-architect-corporate-digital-and-crm/13015/91634216752",
+          "title": "Data Centre Operations",
+          "url": "https://search.jobs.barclays/job/gloucester/data-centre-operations/13015/91670016400",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Enterprise Architect - Cash Management & Digital Assets",
-          "url": "https://search.jobs.barclays/job/london/enterprise-architect-cash-management-and-digital-assets/13015/91634216704",
+          "title": "Security Engineer",
+          "url": "https://search.jobs.barclays/job/whippany/security-engineer/13015/91670011088",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Corporate Data Enterprise Architect",
-          "url": "https://search.jobs.barclays/job/glasgow/corporate-data-enterprise-architect/13015/91634216624",
+          "title": "Escrow Structuring & Business Development VP",
+          "url": "https://search.jobs.barclays/job/new-york/escrow-structuring-and-business-development-vp/13015/91410958368",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "DevOps Engineer",
-          "url": "https://search.jobs.barclays/job/prague/devops-engineer/13015/91634215792",
+          "title": "Vendor Performance - AVP",
+          "url": "https://search.jobs.barclays/job/henderson/vendor-performance-avp/13015/91339006224",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Financial Crime Legal Director - EMEA",
-          "url": "https://search.jobs.barclays/job/london/financial-crime-legal-director-emea/13015/91410964128",
+          "title": "Internal Audit AVP - Markets Macro",
+          "url": "https://search.jobs.barclays/job/london/internal-audit-avp-markets-macro/13015/90311894080",
           "salary": "",
           "isNew": true
         },
@@ -1529,7 +1497,7 @@
           "isNew": false
         },
         {
-          "title": "Wealth and Asset Management and Corporate Banking Graduate Programme",
+          "title": "Corporate, Wealth and Asset Management Graduate Programme",
           "url": "https://careers.berenberg.com/early-careers/graduate-programmes/wealth-asset-management-corporate-banking-graduate-programme",
           "salary": "",
           "isNew": false
@@ -2159,9 +2127,15 @@
           "url": "https://www.chd.lu/fr/searchfolders",
           "salary": "",
           "isNew": false
+        },
+        {
+          "title": "Job étudiant - été 2026 Offre d'emploi 06.08.2025",
+          "url": "https://www.chd.lu/fr/node/3141",
+          "salary": "",
+          "isNew": true
         }
       ],
-      "totalJobs": 5
+      "totalJobs": 6
     },
     {
       "name": "Citco Bank Nederland N.V.  Branch",
@@ -2263,7 +2237,7 @@
         },
         {
           "title": "APPLY NOW",
-          "url": "https://www.conquest.group/cdn-cgi/l/email-protection#4060232132252532336d26292e212e232500232f2e31352533346e27322f3530",
+          "url": "https://www.conquest.group/cdn-cgi/l/email-protection#cdedaeacbfa8a8bfbee0aba4a3aca3aea88daea2a3bcb8a8beb9e3aabfa2b8bd",
           "salary": "",
           "isNew": true
         },
@@ -2275,7 +2249,7 @@
         },
         {
           "title": "APPLY NOW",
-          "url": "https://www.conquest.group/cdn-cgi/l/email-protection#b494d7d5c6d1d1c6c7f4d7dbdac5c1d1c7c09ad3c6dbc1c4",
+          "url": "https://www.conquest.group/cdn-cgi/l/email-protection#bd9ddedccfd8d8cfcefdded2d3ccc8d8cec993dacfd2c8cd",
           "salary": "",
           "isNew": true
         }
@@ -2529,7 +2503,7 @@
           "isNew": false
         },
         {
-          "title": "<img alt=\"Bank Accounts – Luxembourg\" width=\"512\" height=\"512\" src=\"https://www.damalion.com/wp-content/uploads/2022/01/Bank-accounts.png\" title=\"Bank account opening\" srcset=\"https://www.damalion.com/wp-content/uploads/2022/01/Bank-accounts.png 512w, https://www.damalion.com/wp-content/uploads/2022/01/Bank-accounts-480x480.png 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw\" class=\"wp-image-57893\" />",
+          "title": "<img alt=\"Bank Accounts – Luxembourg\" decoding=\"async\" width=\"512\" height=\"512\" src=\"https://www.damalion.com/wp-content/uploads/2022/01/Bank-accounts.png\" title=\"Bank account opening\" srcset=\"https://www.damalion.com/wp-content/uploads/2022/01/Bank-accounts.png 512w, https://www.damalion.com/wp-content/uploads/2022/01/Bank-accounts-480x480.png 480w\" sizes=\"(max-width: 767px) 100vw, (max-width: 980px) 90vw, 980px\" class=\"wp-image-57893\" />",
           "url": "https://www.damalion.com/opening-a-bank-account/",
           "salary": "",
           "isNew": false
@@ -2615,7 +2589,7 @@
           "title": "Solution Architect - Azure & .NET",
           "url": "https://jobs.deloitte.lu/job/Luxembourg-Solution-Architect-Azure-&-_NET/1200822501/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Digital Factory - Junior Full stack .Net Developer",
@@ -2624,86 +2598,86 @@
           "isNew": false
         },
         {
-          "title": "SAP SuccessFactors Specialist",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-SAP-SuccessFactors-Specialist/1280369501/",
+          "title": "Consultant / Senior Consultant Banking Business Transformation Consulting Team",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Consultant-Senior-Consultant-Banking-Business-Transformation-Consulting-Team/1271293701/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Audit Manager in Commercial and Industrial Companies",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Audit-Manager-in-Commercial-and-Industrial-Companies/1249251201/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Lead Software Engineer",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Lead-Software-Engineer/1249455801/",
+          "title": "Senior Personal Assistant",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Senior-Personal-Assistant/1189547101/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior External Auditors in Alternatives",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Senior-External-Auditors-in-Alternatives/1247357001/",
+          "title": "Assistant Manager for our Transfer Pricing department",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Assistant-Manager-for-our-Transfer-Pricing-department/1284699801/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Project Management Assistant for our Alternatives department - German Speaker",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Project-Management-Assistant-for-our-Alternatives-department-German-Speaker/1272727701/",
+          "title": "Senior Transfer Pricing",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Senior-Transfer-Pricing/1285200301/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "HR Business Partner (M/F/D)",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-HR-Business-Partner-%28MFD%29/1273252801/",
+          "title": "Information Security Officer for a Support PSF",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Information-Security-Officer-for-a-Support-PSF/1289083201/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Audit Manager dedicated to engagement inspections for our Monitoring & Remediation (M&R) team",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Audit-Manager-dedicated-to-engagement-inspections-for-our-Monitoring-&-Remediation-%28M&R%29-team/1269934901/",
+          "title": "Cross-Border Fund Services - Analyst",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Cross-Border-Fund-Services-Analyst/1203901401/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior External Auditors specialised in Investment Management - French Speaker",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Senior-External-Auditors-specialised-in-Investment-Management-French-Speaker/1269936301/",
+          "title": "Junior - Internal Audit and Controls Assurance - Financial Services",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Junior-Internal-Audit-and-Controls-Assurance-Financial-Services/1275810901/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Audit Manager in Investment Management - French Speaker",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Audit-Manager-in-Investment-Management-French-Speaker/1269940101/",
+          "title": "Analyst for our Banking Solutions team - German speaker",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Analyst-for-our-Banking-Solutions-team-German-speaker/1275258901/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Tech-Oriented KID Regulatory Reporting Analyst",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Tech-Oriented-KID-Regulatory-Reporting-Analyst/1269923201/",
+          "title": "Junior Transfer Pricing",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Junior-Transfer-Pricing/1262608501/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "KID Regulatory Reporting Analyst",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-KID-Regulatory-Reporting-Analyst/1269923401/",
+          "title": "Financial Assistant - Billing Team for our Audit Department",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Financial-Assistant-Billing-Team-for-our-Audit-Department/1282257401/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Fund Accountant for our Fund Tax team (m/f)",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Fund-Accountant-for-our-Fund-Tax-team-%28mf%29/1269827301/",
+          "title": "Experienced DevOps Engineer",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Experienced-DevOps-Engineer/1292166301/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Accounting Junior Advisor - German Speaker",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Accounting-Junior-Advisor-German-Speaker/1259644001/",
+          "title": "Digital Transformation Junior Consultant",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Digital-Transformation-Junior-Consultant/1273660201/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Talent Acquisition Officer",
-          "url": "https://jobs.deloitte.lu/job/Luxembourg-Senior-Talent-Acquisition-Officer/1258970801/",
+          "title": "Senior Transfer Pricing",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Senior-Transfer-Pricing/1285383201/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Azure Cloud Engineer",
+          "url": "https://jobs.deloitte.lu/job/Luxembourg-Azure-Cloud-Engineer/1143630201/",
           "salary": "",
           "isNew": true
         }
@@ -3204,8 +3178,27 @@
       "name": "escent",
       "website": "https://escent.eu/career/",
       "domain": "escent.eu",
-      "jobs": [],
-      "totalJobs": 0
+      "jobs": [
+        {
+          "title": "Career",
+          "url": "https://escent.eu/career/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Talent Acquisition Consultant",
+          "url": "https://escent.eu/talent-acquisition-consultant/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Career",
+          "url": "https://escent.eu/category/career/",
+          "salary": "",
+          "isNew": true
+        }
+      ],
+      "totalJobs": 3
     },
     {
       "name": "Espace 2001",
@@ -4323,7 +4316,7 @@
           "title": "http://groupe.foyer.lu/fr/jobs/postes-vacants/698c7c4f9533bbf520d2b9a4",
           "url": "http://groupe.foyer.lu/fr/jobs/postes-vacants/698c7c4f9533bbf520d2b9a4",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "http://groupe.foyer.lu/fr/jobs/postes-vacants/698b26aec3c22e6b1d9655c8",
@@ -4498,37 +4491,37 @@
           "isNew": false
         },
         {
-          "title": "Master (111)",
+          "title": "Master (118)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_study_level%2Fprojects_tags%3Agovjobs%5Cstudylevel%5Cmaster&",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Bachelor (53)",
+          "title": "Bachelor (60)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_study_level%2Fprojects_tags%3Agovjobs%5Cstudylevel%5Cbachelor&",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Diplôme de fin d’études secondaires ou diplôme de technicien (44)",
+          "title": "Diplôme de fin d’études secondaires ou diplôme de technicien (48)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_study_level%2Fprojects_tags%3Agovjobs%5Cstudylevel%5Csecondary&",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "5 années ES ou DAP (6)",
+          "title": "5 années ES ou DAP (12)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_study_level%2Fprojects_tags%3Agovjobs%5Cstudylevel%5Ces5&",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Moins de 5 années ES (2)",
+          "title": "Moins de 5 années ES (3)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_study_level%2Fprojects_tags%3Agovjobs%5Cstudylevel%5Ces0&",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Affaires générales (42)",
+          "title": "Affaires générales (43)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_category%2Fprojects_tags%3Agovjobs%5Ccategory%5Cgeneralaffairs&",
           "salary": "",
           "isNew": false
@@ -4540,7 +4533,7 @@
           "isNew": false
         },
         {
-          "title": "Agriculture et Viticulture (5)",
+          "title": "Agriculture et Viticulture (7)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_category%2Fprojects_tags%3Agovjobs%5Ccategory%5Cagriculture&",
           "salary": "",
           "isNew": false
@@ -4570,7 +4563,7 @@
           "isNew": false
         },
         {
-          "title": "Education et Formation tout au long de la vie (34)",
+          "title": "Education et Formation tout au long de la vie (27)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_category%2Fprojects_tags%3Agovjobs%5Ccategory%5Ceducationtraining&",
           "salary": "",
           "isNew": false
@@ -4588,13 +4581,13 @@
           "isNew": false
         },
         {
-          "title": "Finances (10)",
+          "title": "Finances (9)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_category%2Fprojects_tags%3Agovjobs%5Ccategory%5Cpublicfinance&",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Fiscalité (3)",
+          "title": "Fiscalité (4)",
           "url": "https://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants.html?r=f%2Faem_job_category%2Fprojects_tags%3Agovjobs%5Ccategory%5Ctax&",
           "salary": "",
           "isNew": false
@@ -4711,13 +4704,13 @@
           "title": "Senior Quality Specialist",
           "url": "https://careers.postgroup.lu/job/Luxembourg-Senior-Quality-Specialist/1292679001/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Porteur de journaux Luxembourg",
           "url": "https://careers.postgroup.lu/job/Luxembourg-Porteur-de-journaux-Luxembourg/1292799701/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Business Analyst",
@@ -4850,28 +4843,40 @@
           "isNew": false
         },
         {
+          "title": "Claims Handler",
+          "url": "https://jobs.hannover-re.com/job/Hannover-Claims-Handler/1334923355/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Client Excellence Consultant",
+          "url": "https://jobs.hannover-re.com/job/Hannover-Client-Excellence-Consultant/1334929455/",
+          "salary": "",
+          "isNew": true
+        },
+        {
           "title": "Information Security Officer",
           "url": "https://jobs.hannover-re.com/job/Hannover-Information-Security-Officer/1164401055/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "SAP Finance Inhouse Consultant",
           "url": "https://jobs.hannover-re.com/job/Hannover-SAP-Finance-Inhouse-Consultant/1168852755/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Corporate Governance Specialist",
           "url": "https://jobs.hannover-re.com/job/Hannover-Corporate-Governance-Specialist/1341689155/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Quantitative Actuarial Analyst Insurance Linked Securities",
           "url": "https://jobs.hannover-re.com/job/Hannover-Quantitative-Actuarial-Analyst-Insurance-Linked-Securities/1341696655/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Underwriter Facultative Reinsurance Property",
@@ -4944,18 +4949,6 @@
           "url": "https://jobs.hannover-re.com/job/Hannover-Claims-Counsel/1330439255/",
           "salary": "",
           "isNew": false
-        },
-        {
-          "title": "Working Student Mathematics Data Management",
-          "url": "https://jobs.hannover-re.com/job/Hannover-Working-Student-Mathematics-Data-Management/1330377755/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Trainee P&C Underwriting & Business Development",
-          "url": "https://jobs.hannover-re.com/job/Bogot%C3%A1-Trainee-P&C-Underwriting-&-Business-Development-Bogo/1336417955/",
-          "salary": "",
-          "isNew": false
         }
       ],
       "totalJobs": 20
@@ -5002,8 +4995,8 @@
           "isNew": false
         },
         {
-          "title": "https://www.heitman.com/jobs/1929176/",
-          "url": "https://www.heitman.com/jobs/1929176/",
+          "title": "https://www.heitman.com/jobs/1929473/",
+          "url": "https://www.heitman.com/jobs/1929473/",
           "salary": "",
           "isNew": true
         },
@@ -5214,7 +5207,7 @@
           "title": "INTERNSHIP - Real Estate Valuation Expert - Property Valuer",
           "url": "https://careers.ing.com/en/job/luxembourg/internship-real-estate-valuation-expert-property-valuer/3121/35076597568",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "INTERNSHIP - Wholesale Banking - Client Services",
@@ -5641,8 +5634,8 @@
           "isNew": false
         },
         {
-          "title": "CRO - Risk Analytical Tools Developer - Stage extra curriculare",
-          "url": "https://jobs.intesasanpaolo.com/job/Torino-CRO-Risk-Analytical-Tools-Developer-Stage-extra-curriculare/1292684501/",
+          "title": "IT Gyakornok - Elektronikus Csatornák és CRM Alkalmazás Üzemeltetés",
+          "url": "https://jobs.intesasanpaolo.com/job/Budapest-IT-Gyakornok-Elektronikus-Csatorn%C3%A1k-%C3%A9s-CRM-Alkalmaz%C3%A1s-%C3%9Czemeltet%C3%A9s/1293137301/",
           "salary": "",
           "isNew": true
         }
@@ -5777,6 +5770,12 @@
           "isNew": false
         },
         {
+          "title": "Liyema Nunwana Shares Her South Africa Intern Experience <img width=\"1920\" height=\"1200\" src=\"https://www.jtcgroup.com/wp-content/uploads/2026/02/Careers-templates-1.png\" class=\"attachment-full size-full\" alt=\"\" decoding=\"async\" srcset=\"https://www.jtcgroup.com/wp-content/uploads/2026/02/Careers-templates-1.png 1920w, https://www.jtcgroup.com/wp-content/uploads/2026/02/Careers-templates-1-300x188.png 300w, https://www.jtcgroup.com/wp-content/uploads/2026/02/Careers-templates-1-1024x640.png 1024w, https://www.jtcgroup.com/wp-content/uploads/2026/02/Careers-templates-1-768x480.png 768w, https://www.jtcgroup.com/wp-content/uploads/2026/02/Careers-templates-1-1536x960.png 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />",
+          "url": "https://www.jtcgroup.com/insights/liyema-nunwana-shares-her-early-careers-intern-experience/",
+          "salary": "",
+          "isNew": true
+        },
+        {
           "title": "Careers Overview",
           "url": "https://www.jtcgroup.com/jtc-careers/",
           "salary": "",
@@ -5801,49 +5800,49 @@
           "isNew": false
         },
         {
+          "title": "Executive Assistant / Business Support USA - New York, Plaza District Private Client",
+          "url": "https://www.jtcgroup.com/jobs/executive-assistant-business-support-2708/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Senior Administrator – TA Systems Support South Africa - Cape Town Business Operations",
+          "url": "https://www.jtcgroup.com/jobs/senior-administrator-ta-systems-support-2693/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Senior Administrator – Finance Operations Poland - Warsaw Finance",
+          "url": "https://www.jtcgroup.com/jobs/senior-administrator-finance-operations-2705/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Senior Administrator – Business Operations Support South Africa - Cape Town Special Situations",
+          "url": "https://www.jtcgroup.com/jobs/senior-administrator-business-operations-support-2702/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Senior Manager – Business Operations Support South Africa - Cape Town Special Situations",
+          "url": "https://www.jtcgroup.com/jobs/senior-manager-business-operations-support-2701/",
+          "salary": "",
+          "isNew": true
+        },
+        {
           "title": "Senior Administrator – Private Client Bahamas - Caves Corporate Center Private Client",
           "url": "https://www.jtcgroup.com/jobs/senior-administrator-private-client-2634/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Regional Business Development Officer, Midwest – Trust and Private Wealth USA - Austin, Texas Private Client",
           "url": "https://www.jtcgroup.com/jobs/regional-business-development-officer-midwest-trust-and-private-wealth-2550/",
           "salary": "",
           "isNew": false
-        },
-        {
-          "title": "Senior Administrator / Assistant Manager – Client Reviews – 6 Month Fixed Term Contract – PCS Jersey - St Helier Private Client",
-          "url": "https://www.jtcgroup.com/jobs/senior-administrator-assistant-manager-client-reviews-6-month-fixed-term-contract-pcs-2672/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Assistant Administrator – Employee Share Plan Team UK - Bristol Employer Solutions",
-          "url": "https://www.jtcgroup.com/jobs/assistant-administrator-employee-share-plan-team-2698/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Associate Director UK - London, HX1 Fund & Corporate Services",
-          "url": "https://www.jtcgroup.com/jobs/associate-director-2696/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Senior Administrator – Transfer Agency UK - London, HX1 Fund & Corporate Services",
-          "url": "https://www.jtcgroup.com/jobs/senior-administrator-transfer-agency-2691/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Manager – Client Accounting UK - Edinburgh Private Client",
-          "url": "https://www.jtcgroup.com/jobs/manager-client-accounting-2681/",
-          "salary": "",
-          "isNew": false
         }
       ],
-      "totalJobs": 12
+      "totalJobs": 13
     },
     {
       "name": "KBC Asset Management Sa",
@@ -6135,86 +6134,86 @@
           "isNew": false
         },
         {
-          "title": "Lead Murex Datamart Consultant Murex Datamart Hyderabad, IN India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/lead-murex-datamart-consultant-21523",
+          "title": "Senior .Net Developer C#/VB.NET Noida India Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/senior-net-developer-21551",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Java FullStack Developer (React) Java Full Stack Hyderabad, IN India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-java-fullstack-developer-react-21522",
+          "title": "Lead Data Engineer DWH Development Remote Spain Spain Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/lead-data-engineer-21550",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Python Developer Python Hyderabad, IN India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-python-developer-21521",
+          "title": "Lead Data Engineer DWH Development Remote Portugal Portugal Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/lead-data-engineer-21549",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "T24 Transact Technical Engineer Temenos Hyderabad, IN India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/t24-transact-technical-engineer-21520",
+          "title": "Lead Data Engineer DWH Development Remote Poland Poland Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/lead-data-engineer-21548",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Python Developer Python Pune India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-python-developer-21519",
+          "title": "Lead Data Engineer DWH Development Remote Argentina Argentina Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/lead-data-engineer-21547",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Delivery Project Management Delivery Project Management Pune India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/delivery-project-management-21518",
+          "title": "Senior Integration Engineer DevOps Bucharest Romania Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/senior-integration-engineer-21546",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Temenos Senior Business Analyst Temenos Pune India Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/temenos-senior-business-analyst-21517",
+          "title": "Commissioning and Support Test Infrastructure - Mechatronic Engineer Mechatronics Technician Bucharest Romania Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/commissioning-and-support-test-infrastructure-mechatronic-engineer-21545",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior-Principal .NET Engineer C#/VB.NET Remote Brazil Brazil Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-principal-net-engineer-21516",
+          "title": "Murex Production support - BO Murex BO Riyadh Saudi Arabia Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/murex-production-support-bo-21544",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Full Stack Developer (Python, AWS, Angular or React) Python Toronto Canada Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-full-stack-developer-python-aws-angular-or-react-21515",
+          "title": "Murex Reporting BA Murex Datamart Riyadh Saudi Arabia Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/murex-reporting-ba-21543",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Regular Support engineer (with Terraform experiece) Technical Support (SL3) Bucharest Romania Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/regular-support-engineer-with-terraform-experiece-21514",
+          "title": "Murex Production support- Mxml Interface Murex MxML Riyadh Saudi Arabia Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/murex-production-support-mxml-interface-21542",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Technical Project Manager / Product Owner Product Owner Remote Mexico Mexico Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/technical-project-manager-product-owner-21513",
+          "title": "Murex Credit Risk BA Murex ERM Riyadh Saudi Arabia Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/murex-credit-risk-ba-21541",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Technical Project Manager / Product Owner Product Owner Remote Brazil Brazil Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/technical-project-manager-product-owner-21512",
+          "title": "Murex Production Support (Risk) Murex ERM Riyadh Saudi Arabia Relocation friendly Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/murex-production-support-risk-21540",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Java Full-Stack Developer Java Full Stack Bucharest Romania Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-java-full-stack-developer-21511",
+          "title": "Murex Migration Developer Murex MxML Riyadh Saudi Arabia Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/murex-migration-developer-21539",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Java Full-Stack Developer Java Full Stack Bucharest Romania Facebook Twitter Linkedin Mail Add to favorites Share",
-          "url": "https://career.luxoft.com/jobs/senior-java-full-stack-developer-21510",
+          "title": "Subsurface Application Quality Assurance engineer Manual Testing Calgary Canada Facebook Twitter Linkedin Mail Add to favorites Share",
+          "url": "https://career.luxoft.com/jobs/subsurface-application-quality-assurance-engineer-21538",
           "salary": "",
           "isNew": true
         }
@@ -6285,92 +6284,92 @@
           "isNew": false
         },
         {
-          "title": "Analyst - Market Data Sourcing and Procurement",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20669",
+          "title": "Java Engineer",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20740",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20669&record=20669",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20740&record=20740",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Senior Manager - Data, Models and User-Developed Applications",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20652",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20652&record=20652",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Senior Analyst - Data, Models and User-Developed Applications",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20641",
+          "title": "Senior Associate - Business Credit Analyst",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20682",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20641&record=20641",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20682&record=20682",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Security Architect - Secure by Design",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=19048",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=19048&record=19048",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Operations Administrator - Wealth",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=18354",
+          "title": "Transactional Banking Specialist",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20675",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=18354&record=18354",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20675&record=20675",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Manager/Senior Manager – Regulatory Affairs and Engagement",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=17019",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=17019&record=17019",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Python Software Engineer",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20684",
+          "title": "Senior Data Risk Manager",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20616",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Apply",
-          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20684&record=20684",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20616&record=20616",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Regulatory Reporting Analyst",
-          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20681",
+          "title": "Macquarie Capital - Analyst",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20601",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Apply",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20601&record=20601",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Data Engineer",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20598",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Apply",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20598&record=20598",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Model Risk Manager | Prudential and Provisioning",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20506",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Apply",
+          "url": "https://recruitment.macquarie.com/en_US/careers/ApplicationMethods?jobId=20506&record=20506",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Business Data Analyst",
+          "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20483",
           "salary": "",
           "isNew": true
         }
@@ -6403,7 +6402,7 @@
           "isNew": false
         },
         {
-          "title": "Accounting ExpertNewParis, Luxembourg",
+          "title": "Accounting ExpertParis, Luxembourg",
           "url": "https://job-boards.eu.greenhouse.io/mangopay/jobs/4773755101",
           "salary": "",
           "isNew": false
@@ -6646,19 +6645,13 @@
           "isNew": false
         },
         {
-          "title": "Relationship Manager Assistant (6 months mission)",
-          "url": "https://www.mirabaud.com/en/careers/job-opportunities/job-details/744000107085215",
-          "salary": "",
-          "isNew": false
-        },
-        {
           "title": "Middle Officer Assurances Vie & Gestion de fortune",
           "url": "https://www.mirabaud.com/en/careers/job-opportunities/job-details/744000103234951",
           "salary": "",
           "isNew": false
         }
       ],
-      "totalJobs": 9
+      "totalJobs": 8
     },
     {
       "name": "Mitsubishi UFJ Global Custody",
@@ -7023,25 +7016,43 @@
         },
         {
           "title": "Finance",
-          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37914&job_location_=All",
+          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37995&job_location_=All",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Legal",
-          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37909&job_location_=All",
+          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37991&job_location_=All",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Sales",
-          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37911&job_location_=All",
+          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37992&job_location_=All",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Other",
-          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37912&job_location_=All",
+          "url": "https://www.ocorian.com/careers/search?keyword=&expertise=37993&job_location_=All",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Senior Administrator - Investor Services",
+          "url": "https://www.ocorian.com/job/senior-administrator-investor-services",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Officer - Client Onboarding",
+          "url": "https://www.ocorian.com/job/officer-client-onboarding",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Assistant Manager - Private Clients",
+          "url": "https://www.ocorian.com/job/assistant-manager-private-clients",
           "salary": "",
           "isNew": true
         },
@@ -7049,13 +7060,13 @@
           "title": "Associate (Ocorian Law (Cayman))",
           "url": "https://www.ocorian.com/job/associate-ocorian-law-cayman",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Governance Manager",
           "url": "https://www.ocorian.com/job/governance-manager",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Director - Global Treasury Services",
@@ -7084,24 +7095,6 @@
         {
           "title": "Finance Business Partner",
           "url": "https://www.ocorian.com/job/finance-business-partner",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Manager (Private Client)",
-          "url": "https://www.ocorian.com/job/manager-private-client",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Client Director (Private Clients)",
-          "url": "https://www.ocorian.com/job/client-director-private-clients",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Senior Manager (Private Clients)",
-          "url": "https://www.ocorian.com/job/senior-manager-private-clients",
           "salary": "",
           "isNew": false
         },
@@ -7185,7 +7178,7 @@
           "title": "Finance Manager",
           "url": "https://www.olympicbankingsystem.com/en/job/finance-manager-luxembourg/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Technical Consultant",
@@ -7807,11 +7800,17 @@
           "title": "Apply",
           "url": "https://jobs.eu.lever.co/seb/993afef6-5f5c-4788-969a-e0d4872415db",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Apply",
           "url": "https://jobs.eu.lever.co/seb/08b01b83-382e-4207-9daa-d42edabfd4e6",
+          "salary": "",
+          "isNew": false
+        },
+        {
+          "title": "Apply",
+          "url": "https://jobs.eu.lever.co/seb/070f6b2a-f572-4168-949a-ed9543aed803",
           "salary": "",
           "isNew": true
         },
@@ -7830,12 +7829,6 @@
         {
           "title": "Apply",
           "url": "https://jobs.eu.lever.co/seb/ca202fcb-8e4e-4ca1-a05c-2bdfe1ac80a5",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Apply",
-          "url": "https://jobs.eu.lever.co/seb/91d59713-32b6-41fa-a4a7-67c43db5248d",
           "salary": "",
           "isNew": false
         }
@@ -7884,10 +7877,16 @@
           "isNew": false
         },
         {
+          "title": "TEMP - IT Infrastructure Project Manager Assistant Vice President",
+          "url": "https://careersemea.smbcgroup.com/job/Dublin-TEMP-IT-Infrastructure-Project-Manager-Assistant-Vice-President-D-D02-KF20/1293288701/",
+          "salary": "",
+          "isNew": true
+        },
+        {
           "title": "Compliance - Working Student / Intern (m/f/d)",
           "url": "https://careersemea.smbcgroup.com/job/Frankfurt-Compliance-Working-Student-Intern-%28mfd%29-HE-60311/1292673401/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Leasing Director - Head of Non Asian Corporates and Third Party Sources",
@@ -7911,7 +7910,7 @@
           "title": "19430 - Global Markets - Fixed Income - Business Management - Executive Director",
           "url": "https://careersemea.smbcgroup.com/job/London-19430-Global-Markets-Fixed-Income-Business-Management-Executive-Director-LND-EC2M-2AT/1292016201/",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Temp - AVP - Technical Systems Analyst (ProcessUnity Implementation - Third Party Management)",
@@ -7924,6 +7923,12 @@
           "url": "https://careersemea.smbcgroup.com/job/Dublin-Temp-VP-Technical-Delivery-Manager-%28ProcessUnity-Implementation-Third-Party-Management%29-D-D02-KF20/1290819601/",
           "salary": "",
           "isNew": false
+        },
+        {
+          "title": "19327 - GTBD - Transaction Banking - Customer Support - AVP (Amst)",
+          "url": "https://careersemea.smbcgroup.com/job/Amsterdam-19327-GTBD-Transaction-Banking-Customer-Support-AVP-%28Amst%29-NH-1077-XV/1290714901/",
+          "salary": "",
+          "isNew": true
         },
         {
           "title": "Senior Cloud Engineer",
@@ -7952,18 +7957,6 @@
         {
           "title": "Third Party Management",
           "url": "https://careersemea.smbcgroup.com/job/London-Third-Party-Management-LND-EC2M-2AT/1288540601/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Account Manager, Leveraged Finance, Portfolio Management - Assistant Vice President",
-          "url": "https://careersemea.smbcgroup.com/job/London-Account-Manager%2C-Leveraged-Finance%2C-Portfolio-Management-Assistant-Vice-President-LND-EC2M-2AT/1288638201/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Business Architect - Vice President (f/m/d)",
-          "url": "https://careersemea.smbcgroup.com/job/Frankfurt-Business-Architect-Vice-President-%28fmd%29-HE-60311/1288191801/",
           "salary": "",
           "isNew": false
         }
@@ -8297,6 +8290,12 @@
           "isNew": false
         },
         {
+          "title": "Business Development Manager, Federal ISRWashington, DC Apply",
+          "url": "https://spire.com/careers/job-openings/job/?gh_jid=7600288",
+          "salary": "",
+          "isNew": true
+        },
+        {
           "title": "Sales Manager, Americas - Weather and ClimateBoulder, Colorado, United States Apply",
           "url": "https://spire.com/careers/job-openings/job/?gh_jid=7455003",
           "salary": "",
@@ -8319,12 +8318,6 @@
           "url": "https://spire.com/careers/job-openings/job/?gh_jid=7458209",
           "salary": "",
           "isNew": false
-        },
-        {
-          "title": "GNC Engineer - AvionicsGlasgow, Scotland, United Kingdom Apply",
-          "url": "https://spire.com/careers/job-openings/job/?gh_jid=7307780",
-          "salary": "",
-          "isNew": true
         }
       ],
       "totalJobs": 20
@@ -8644,7 +8637,7 @@
           "title": "Pune - Kharadi (EON-II)",
           "url": "https://www.synechron.com/careers/jobs/all/pune-kharadi-eon-ii/all",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Pune - Kharadi (EON)",
@@ -8677,10 +8670,10 @@
           "isNew": false
         },
         {
-          "title": "Dubai",
-          "url": "https://www.synechron.com/careers/jobs/all/dubai/all",
+          "title": "Atlanta, GA",
+          "url": "https://www.synechron.com/careers/jobs/all/atlanta-ga/all",
           "salary": "",
-          "isNew": false
+          "isNew": true
         }
       ],
       "totalJobs": 20
@@ -8709,62 +8702,62 @@
           "isNew": false
         },
         {
-          "title": "Permanent contract - ParisPartner Conseil Supply Chain & Logistics H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108830656",
+          "title": "Permanent contract - ChicagoProduction Support Analyst - Trading",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109085395",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Long term contract - WarsawAI Data Scientist",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108828685",
+          "title": "Permanent contract - ParisConsultant(e) senior finance Microsoft D365 F&O | Microsoft D365 F&O Senior Finance Consultant (Montréal)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109056195",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Long term contract - LyonConsultant Confirmé - Management des SI - H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108802706",
+          "title": "Permanent contract - ParisConsultant(e) senior logistique Microsoft D365 F&O | Microsoft D365 F&O Senior Supply Chain Consultant (Montréal)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109056075",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Permanent contract - ParisConsultant(e) senior commerce Microsoft D365 F&O | Microsoft D365 F&O Senior Retail Consultant (Montréal)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109052651",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Permanent contract - ParisApplication Production Support Fixed Income / New York City (on-site)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109045166",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Long term contract - ToulouseArchitecte / Tech Lead .Net Cloud (H/F)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109030535",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Long term contract - LyonCandidature Spontanée - Talan Sud Est - H/F",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109023425",
           "salary": "",
           "isNew": true
         },
         {
           "title": "Permanent contract - BarcelonaSAP Ariba Solution Architect",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108801505",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000109012245",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Permanent contract - ParisManager / Senior Manager - Strategy Consulting - H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108784525",
+          "title": "Long term contract - LilleData Scientist confirmé/sénior (F/H)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108994565",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "Long term contract - ParisConsultant Senior - Strategy Consulting - H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108784185",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Long term contract - ToulouseAdministrateur système Linux SysOps H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108753439",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Long term contract - ParisProduct Owner Data BI H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108735080",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Long term contract - GenevaTechnical Lead E-commerce",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108714425",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "Long term contract - ToulouseConsultant Développeur .NET/Angular (confirmé/senior) H/F",
-          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108710425",
+          "title": "Long term contract - MontpellierDéveloppeur Fullstack Java Angular - Banque/Assurance (H/F)",
+          "url": "https://www.talan.com/global/fr/careers/offers/detail/744000108952331",
           "salary": "",
           "isNew": true
         }
@@ -9021,56 +9014,20 @@
           "isNew": false
         },
         {
-          "title": "https://tokeny.com/talent-interview-nida/",
-          "url": "https://tokeny.com/talent-interview-nida/",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "https://tokeny.com/tokenys-talent-philippes-story/",
-          "url": "https://tokeny.com/tokenys-talent-philippes-story/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Tokeny’s Talent｜Tony’s Story",
-          "url": "https://tokeny.com/the-story-of-tony/",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "https://tokeny.com/tokenys-talent-shurong/",
-          "url": "https://tokeny.com/tokenys-talent-shurong/",
-          "salary": "",
-          "isNew": false
-        },
-        {
           "title": "https://tokeny.com/tokenys-talent-xavi-story/",
           "url": "https://tokeny.com/tokenys-talent-xavi-story/",
           "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "https://tokeny.com/tokenys-talent-mihaliss-story/",
-          "url": "https://tokeny.com/tokenys-talent-mihaliss-story/",
-          "salary": "",
-          "isNew": true
-        },
-        {
-          "title": "https://tokeny.com/tokenys-talent%ef%bd%9cthaddees-story/",
-          "url": "https://tokeny.com/tokenys-talent%ef%bd%9cthaddees-story/",
-          "salary": "",
           "isNew": false
         },
         {
-          "title": "Tokeny’s Talent｜Barbel’s Story",
-          "url": "https://tokeny.com/the-story-of-barbel/",
+          "title": "https://tokeny.com/talent-interview-thaddee/",
+          "url": "https://tokeny.com/talent-interview-thaddee/",
           "salary": "",
           "isNew": true
         },
         {
-          "title": "https://tokeny.com/tokenys-talent-shurongs-story/",
-          "url": "https://tokeny.com/tokenys-talent-shurongs-story/",
+          "title": "https://tokeny.com/tokenys-talent-adrian/",
+          "url": "https://tokeny.com/tokenys-talent-adrian/",
           "salary": "",
           "isNew": true
         },
@@ -9081,16 +9038,52 @@
           "isNew": false
         },
         {
-          "title": "https://tokeny.com/tokenys-talent-cristian/",
-          "url": "https://tokeny.com/tokenys-talent-cristian/",
+          "title": "https://tokeny.com/tokenys-talent-philippes-story/",
+          "url": "https://tokeny.com/tokenys-talent-philippes-story/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "https://tokeny.com/tokenys-talent%ef%bd%9csefas-story/",
-          "url": "https://tokeny.com/tokenys-talent%ef%bd%9csefas-story/",
+          "title": "https://tokeny.com/tokenys-talent-joachims-story/",
+          "url": "https://tokeny.com/tokenys-talent-joachims-story/",
           "salary": "",
           "isNew": true
+        },
+        {
+          "title": "https://tokeny.com/tokenys-talent-satjapongs-story/",
+          "url": "https://tokeny.com/tokenys-talent-satjapongs-story/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "https://tokeny.com/tokenys-talent-nidas-story/",
+          "url": "https://tokeny.com/tokenys-talent-nidas-story/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Tokeny’s Talent｜Tony’s Story",
+          "url": "https://tokeny.com/the-story-of-tony/",
+          "salary": "",
+          "isNew": false
+        },
+        {
+          "title": "Tokeny’s Talent｜Barbel’s Story",
+          "url": "https://tokeny.com/the-story-of-barbel/",
+          "salary": "",
+          "isNew": false
+        },
+        {
+          "title": "https://tokeny.com/tokenys-talent-story-of-jose/",
+          "url": "https://tokeny.com/tokenys-talent-story-of-jose/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "https://tokeny.com/tokenys-talent-shurong/",
+          "url": "https://tokeny.com/tokenys-talent-shurong/",
+          "salary": "",
+          "isNew": false
         }
       ],
       "totalJobs": 13
@@ -9448,115 +9441,115 @@
           "isNew": false
         },
         {
-          "title": "Senior .NET Software Engineer / Financial Engineering3 days agoTechnology & Services Zürich",
+          "title": "Client Associate / Office Manager1 day agoPrivate Clients Americas Los Angeles",
+          "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8782-client-associate--office-manager/",
+          "salary": "",
+          "isNew": true
+        },
+        {
+          "title": "Senior .NET Software Engineer / Financial Engineering4 days agoTechnology & Services Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8781-senior-net-software-engineer-financial-engineering/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "US Tax Specialist6 days agoPrivate Clients Americas Zürich",
+          "title": "US Tax Specialist7 days agoPrivate Clients Americas Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8761-us-tax-specialist/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Head of Asset Owners / Privates Specialist - TwentyFour Asset Management7 days agoInvestments London",
+          "title": "Head of Asset Owners / Privates Specialist - TwentyFour Asset Management8 days agoInvestments London",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8762-head-of-asset-owners--privates-specialist---twentyfour-asset-management/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Avaloq Developer - Parameterization Specialist Trading Operations 100%8 days agoTechnology & Services Zürich",
+          "title": "Avaloq Developer - Parameterization Specialist Trading Operations 100%9 days agoTechnology & Services Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8751-avaloq-developer---parameterization-specialist-trading-operations-100/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Reception & Phone Services 100%8 days agoTechnology & Services Zürich",
+          "title": "Reception & Phone Services 100%9 days agoTechnology & Services Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8663-reception-phone-services-100/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Client Associate / Office Manager8 days agoPrivate Clients Americas Los Angeles",
-          "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8782-client-associate-office-manager/",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Middle / Back Office Support – Wertpapierspezialist (m/w/d)9 days agoTechnology & Services München",
+          "title": "Middle / Back Office Support – Wertpapierspezialist (m/w/d)10 days agoTechnology & Services München",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8748-middle--back-office-support--wertpapierspezialist-mwd/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior Business Developer (West Coast)9 days agoPrivate Clients Americas Los Angeles",
+          "title": "Senior Business Developer (West Coast)10 days agoPrivate Clients Americas Los Angeles",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8251-senior-business-developer-west-coast/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Legal Counsel Asset Management (80-100%)13 days agoLegal & Compliance Zürich",
+          "title": "Legal Counsel Asset Management (80-100%)14 days agoLegal & Compliance Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8734-legal-counsel-asset-management-80-100/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior Relationship Manager14 days agoInstitutional Clients Madrid",
+          "title": "Senior Relationship Manager15 days agoInstitutional Clients Madrid",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8763-senior-relationship-manager/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Structured Solutions Specialist16 days agoStructured Solutions & Treasury Dubai",
+          "title": "Structured Solutions Specialist17 days agoStructured Solutions & Treasury Dubai",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8749-structured-solutions-specialist/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior Investment Advisor20 days agoPrivate Clients Americas Zürich",
+          "title": "Senior Investment Advisor21 days agoPrivate Clients Americas Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8755-senior-investment-advisor/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior Analyst Industrials22 days agoPrivate Clients Global Business & Services Zürich",
+          "title": "Senior Analyst Industrials23 days agoPrivate Clients Global Business & Services Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8703-senior-analyst-industrials/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Client Associate22 days agoPrivate Clients DACH Basel",
+          "title": "Client Associate23 days agoPrivate Clients DACH Basel",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8722-client-associate/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "1LoD Controls Specialist - befristet für 12 Monate23 days agoPrivate Clients Global Business & Services Zürich",
+          "title": "1LoD Controls Specialist - befristet für 12 Monate24 days agoPrivate Clients Global Business & Services Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8704-1lod-controls-specialist-befristet-fur-12-monate/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior Credit Analyst - Financials24 days agoInvestments Zürich",
+          "title": "Senior Credit Analyst - Financials25 days agoInvestments Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8728-senior-credit-analyst-financials/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Payroll Specialist Germany (60-80%)28 days agoHuman Resources München",
+          "title": "Payroll Specialist Germany (60-80%)29 days agoHuman Resources München",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8574-payroll-specialist-germany-60-80/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior AI Architect (80-100%)29 days agoTechnology & Services Zürich",
+          "title": "Senior AI Architect (80-100%)30 days agoTechnology & Services Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8671-senior-ai-architect-80-100/",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Working Student (60%) - Institutional Clients RFP Team30 days agoInstitutional Clients Zürich",
+          "title": "Working Student (60%) - Institutional Clients RFP Team31 days agoInstitutional Clients Zürich",
           "url": "https://www.vontobel.com/en/about-vontobel/careers/open-positions/8725-working-student-60-institutional-clients-rfp-team/",
           "salary": "",
           "isNew": false
@@ -9621,19 +9614,13 @@
         },
         {
           "title": "Associate – AML",
-          "url": "https://waystone.bamboohr.com/careers/1419",
-          "salary": "",
-          "isNew": false
-        },
-        {
-          "title": "Associate – AML",
           "url": "https://waystone.bamboohr.com/careers/1418",
           "salary": "",
           "isNew": false
         },
         {
-          "title": "Senior Associate – AML",
-          "url": "https://waystone.bamboohr.com/careers/1416",
+          "title": "Associate – AML",
+          "url": "https://waystone.bamboohr.com/careers/1419",
           "salary": "",
           "isNew": false
         },
@@ -9644,8 +9631,8 @@
           "isNew": false
         },
         {
-          "title": "Assistant Vice President - Corporate Secretarial Services (COE)",
-          "url": "https://waystone.bamboohr.com/careers/1363",
+          "title": "Senior Associate – AML",
+          "url": "https://waystone.bamboohr.com/careers/1416",
           "salary": "",
           "isNew": false
         },
@@ -9725,11 +9712,17 @@
           "title": "Senior IT Support Engineer",
           "url": "https://waystone.bamboohr.com/careers/1421",
           "salary": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "title": "Senior Technical Support Manager",
           "url": "https://waystone.bamboohr.com/careers/1420",
+          "salary": "",
+          "isNew": false
+        },
+        {
+          "title": "Solutions Architect",
+          "url": "https://waystone.bamboohr.com/careers/1410",
           "salary": "",
           "isNew": true
         }
